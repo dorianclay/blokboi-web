@@ -1,0 +1,6 @@
+[Unit]
+Description=Blokboi Game
+[Service]
+ExecStart=/bin/bash /usr/sbin/blokboi.sh
+[Install]
+WantedBy=multi-user.target
