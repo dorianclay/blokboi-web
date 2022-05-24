@@ -19,4 +19,6 @@ conda activate bboiweb
 pre-commit install
 pre-commit run --all-files
 npm install -g @angular/cli
+sudo apt install nginx
+sudo cp blokboi.conf /etc/nginx/conf.d
 ```
