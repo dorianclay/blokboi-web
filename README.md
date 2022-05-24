@@ -5,10 +5,9 @@ The blokboi browser game!
 Setting up a dev environment for the Blokboi Web App is relatively straight-forward, and should take about 25 minutes.
 1. Clone the repo and submodules. If you have not already cloned, run:
 ```bash
+# If you have not already cloned, run:
 git clone --recurse-submodules -j8 git@github.com:glxiia/blokboi-web
-```
-- Otherwise, run:
-```bash
+# Otherwise, run:
 git submodule update --init --recursive
 ```
 
