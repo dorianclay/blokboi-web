@@ -31,3 +31,9 @@ npm install -g @angular/cli
 sudo apt install nginx
 sudo cp blokboi.conf /etc/nginx/conf.d
 ```
+
+4. Test the Angular app worked:
+```bash
+cd web/blokboi
+ng serve --open
+```
