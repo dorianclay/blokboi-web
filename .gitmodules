@@ -1,0 +1,3 @@
+[submodule "src/blokboi"]
+	path = src/blokboi
+	url = git@github.com:glxiia/blokboi
